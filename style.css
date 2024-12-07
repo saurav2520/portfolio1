@@ -187,8 +187,8 @@ body{
     position: relative;
     margin-left: 15%;
     overflow: auto;
-    border: 7px solid rgb(52, 52, 80); 
-    border-radius: 50%; 
+/*     border: 7px solid rgb(52, 52, 80);  */
+    border-radius: 100%; 
     }  
  /* .dark{
         background-color: black;
